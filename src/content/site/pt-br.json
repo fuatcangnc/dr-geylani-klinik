@@ -1,0 +1,352 @@
+{
+  "nav": {
+    "home": "Início",
+    "company": "Empresa",
+    "about": "Sobre nós",
+    "services": "Serviços",
+    "blog": "Blog",
+    "contact": "Contato"
+  },
+  "cta": "Solicitar orçamento",
+  "topbar": "Planejamento, execução e suporte para empresas em crescimento.",
+  "whatsapp": {
+    "message": "Olá, gostaria de saber mais sobre os seus serviços.",
+    "online": "Online",
+    "help": "Precisa de ajuda?",
+    "ask": "Perguntar no WhatsApp"
+  },
+  "hero": {
+    "eyebrow": "Consultoria · Projetos · Suporte",
+    "title": "Ajudamos sua empresa",
+    "accent": "a crescer com confiança",
+    "text": "Uma equipe pequena com grande experiência. Planejamos, executamos e damos suporte aos projetos que fazem sua empresa avançar, no prazo e dentro do orçamento.",
+    "primary": "Orçamento grátis",
+    "rating": "Centenas de avaliações 5 estrelas no Google",
+    "panel": "Como trabalhamos",
+    "status": "No prazo"
+  },
+  "highlights": [
+    "Primeira consulta gratuita",
+    "Preços fixos e transparentes",
+    "Suporte após o lançamento"
+  ],
+  "metrics": [
+    {
+      "value": "12+",
+      "label": "Anos de experiência"
+    },
+    {
+      "value": "850+",
+      "label": "Projetos entregues"
+    },
+    {
+      "value": "98%",
+      "label": "Clientes satisfeitos"
+    }
+  ],
+  "services": {
+    "badge": "O que fazemos",
+    "title": "Serviços que",
+    "accent": "fazem você avançar",
+    "intro": "Tudo o que você precisa, da primeira ideia ao dia a dia.",
+    "more": "Saiba mais",
+    "all": "Ver todos os serviços",
+    "help": "Não sabe por onde começar? Vamos encontrar juntos a melhor opção.",
+    "details": "detalhes",
+    "count": "serviços"
+  },
+  "pillars": {
+    "badge": "Duas formas de ajudar",
+    "title": "Serviços especializados e",
+    "accent": "guias práticos",
+    "text": "Escolha o que você precisa hoje: ajuda direta da nossa equipe ou guias gratuitos para seguir por conta própria.",
+    "view": "Ver",
+    "items": [
+      {
+        "title": "Nossos serviços",
+        "subtitle": "Feitos junto com você",
+        "tag": "Equipes e empresas",
+        "text": "Da estratégia à entrega, nossa equipe trabalha lado a lado com a sua até o trabalho estar concluído.",
+        "list": "Serviços populares",
+        "bullets": [
+          "Primeira conversa grátis",
+          "Preços fixos",
+          "Um único contato"
+        ],
+        "action": "Ver todos os serviços"
+      },
+      {
+        "title": "Guias e insights",
+        "subtitle": "Aprenda no seu ritmo",
+        "tag": "Conteúdo gratuito",
+        "text": "Artigos curtos e práticos que respondem às perguntas que mais ouvimos.",
+        "list": "Artigos recentes",
+        "bullets": [
+          "Dicas práticas",
+          "Exemplos reais",
+          "Atualizado com frequência"
+        ],
+        "action": "Ler o blog"
+      }
+    ]
+  },
+  "why": {
+    "badge": "Por que nos escolher",
+    "title": "Por que as empresas trabalham conosco",
+    "text": "Comunicação clara, preços honestos e uma equipe que se importa com seus resultados.",
+    "features": [
+      {
+        "title": "Equipe experiente",
+        "text": "Anos de trabalho prático em vários setores."
+      },
+      {
+        "title": "Processo claro",
+        "text": "Você sempre sabe o que vem a seguir e quanto custa."
+      },
+      {
+        "title": "Resposta rápida",
+        "text": "A maioria das perguntas é respondida no mesmo dia útil."
+      },
+      {
+        "title": "Suporte de longo prazo",
+        "text": "Continuamos ao seu lado muito depois do lançamento."
+      }
+    ],
+    "stats": [
+      {
+        "value": 12,
+        "suffix": "+",
+        "label": "Anos",
+        "text": "De experiência prática."
+      },
+      {
+        "value": 850,
+        "suffix": "+",
+        "label": "Projetos",
+        "text": "Entregues para clientes de todos os portes."
+      },
+      {
+        "value": 98,
+        "suffix": "%",
+        "label": "Satisfação",
+        "text": "Dos clientes nos recomendariam."
+      },
+      {
+        "value": 40,
+        "suffix": "+",
+        "label": "Parceiros",
+        "text": "Empresas com quem trabalhamos todo ano."
+      }
+    ]
+  },
+  "process": {
+    "badge": "Como funciona",
+    "title": "Da primeira conversa ao resultado final",
+    "text": "Um processo simples e comprovado que mantém cada projeto no rumo.",
+    "kicker": "Consulta gratuita",
+    "center": "Vamos falar sobre seu projeto",
+    "action": "Envie uma mensagem",
+    "steps": [
+      {
+        "title": "Descoberta",
+        "text": "Ouvimos, fazemos perguntas e entendemos seus objetivos."
+      },
+      {
+        "title": "Plano",
+        "text": "Você recebe um plano claro com escopo, prazo e preço."
+      },
+      {
+        "title": "Execução",
+        "text": "Nossa equipe faz o trabalho e mantém você informado."
+      },
+      {
+        "title": "Suporte",
+        "text": "Medimos os resultados e seguimos melhorando juntos."
+      }
+    ]
+  },
+  "testimonials": {
+    "badge": "Histórias de clientes",
+    "title": "Opiniões reais.",
+    "accent": "Resultados reais.",
+    "text": "O que nossos clientes dizem sobre trabalhar conosco.",
+    "see": "Ver avaliações no Google",
+    "source": "Avaliação do Google",
+    "verified": "Verificada",
+    "prev": "Avaliação anterior",
+    "next": "Próxima avaliação",
+    "items": [
+      {
+        "name": "Ana Souza",
+        "role": "Gerente de operações",
+        "project": "Consultoria",
+        "quote": "Entenderam nosso problema em uma reunião e nos deram um plano que realmente conseguimos seguir."
+      },
+      {
+        "name": "Rafael Oliveira",
+        "role": "Fundador",
+        "project": "Gestão de projetos",
+        "quote": "No prazo, dentro do orçamento e sempre disponíveis. Exatamente o que precisávamos."
+      },
+      {
+        "name": "Juliana Costa",
+        "role": "Gerente administrativa",
+        "project": "Suporte",
+        "quote": "Simpáticos, rápidos e confiáveis. Nossa equipe se sente em boas mãos."
+      }
+    ]
+  },
+  "quote": {
+    "badge": "Orçamento rápido",
+    "title": "Conte-nos sobre seu projeto",
+    "accent": "e receba um orçamento",
+    "text": "Compartilhe alguns detalhes e responderemos com um plano e um preço claros.",
+    "steps": [
+      {
+        "title": "Resposta em um dia",
+        "text": "Analisamos seu pedido e respondemos no mesmo dia útil."
+      },
+      {
+        "title": "Preços fixos e claros",
+        "text": "Sem custos ocultos: você vê o preço total antes de começar."
+      },
+      {
+        "title": "Sem compromisso",
+        "text": "A primeira consulta é sempre gratuita."
+      }
+    ],
+    "hotline": "Linha direta"
+  },
+  "form": {
+    "eyebrow": "Orçamento grátis",
+    "title": "Solicitar orçamento",
+    "text": "Diga-nos do que você precisa e entraremos em contato em breve.",
+    "name": "Nome completo",
+    "namePlaceholder": "Seu nome",
+    "phone": "Telefone",
+    "company": "Empresa",
+    "companyPlaceholder": "Nome da empresa",
+    "service": "Serviço",
+    "choose": "Escolha um serviço",
+    "details": "Detalhes do projeto",
+    "detailsPlaceholder": "Conte-nos brevemente sobre seu projeto...",
+    "consent": "Concordo que meus dados sejam usados para preparar um orçamento.",
+    "send": "Enviar pelo WhatsApp",
+    "safe": "Seus dados estão seguros",
+    "reply": "Resposta média: no mesmo dia",
+    "sent": "Abrindo o WhatsApp com seu pedido...",
+    "heading": "Novo pedido de orçamento"
+  },
+  "blog": {
+    "badge": "Insights",
+    "title": "Blog",
+    "intro": "Novidades, dicas e histórias da nossa equipe.",
+    "readMore": "Ler mais",
+    "all": "Todos os artigos",
+    "related": "Artigos relacionados",
+    "summary": "Resumo",
+    "consultTitle": "Tem alguma dúvida sobre este tema?",
+    "consultText": "Envie uma mensagem e nossa equipe terá prazer em ajudar.",
+    "consultAction": "Pergunte-nos"
+  },
+  "faq": {
+    "badge": "FAQ",
+    "title": "Perguntas frequentes",
+    "text": "Respostas rápidas às perguntas que mais ouvimos.",
+    "items": [
+      {
+        "question": "Como começamos?",
+        "answer": "Envie uma mensagem ou ligue para nós. Agendamos uma primeira conversa gratuita para entender suas necessidades."
+      },
+      {
+        "question": "Quanto custa um projeto?",
+        "answer": "Depende do escopo. Após a primeira conversa, você recebe um preço fixo por escrito."
+      },
+      {
+        "question": "Quanto tempo leva?",
+        "answer": "Projetos pequenos levam algumas semanas; os maiores são planejados em fases claras."
+      },
+      {
+        "question": "Vocês oferecem suporte após o projeto?",
+        "answer": "Sim. Planos de suporte flexíveis garantem que você nunca fique sozinho."
+      }
+    ],
+    "bannerTitle": "Tem alguma dúvida?",
+    "bannerAccent": "Fale com nossa equipe.",
+    "bannerText": "Envie uma mensagem e responderemos rapidamente."
+  },
+  "ctaBanner": {
+    "eyebrow": "Vamos trabalhar juntos",
+    "title": "Pronto para o próximo passo?",
+    "text": "Conte-nos seus objetivos e mostraremos como podemos ajudar.",
+    "help": "Precisa de ajuda?",
+    "call": "Ligue para nós"
+  },
+  "about": {
+    "eyebrow": "Empresa",
+    "title": "Sobre nós",
+    "intro": "Somos uma empresa independente que coloca as pessoas e a qualidade em primeiro lugar.",
+    "kicker": "Nossa abordagem",
+    "heading": "Transformamos problemas complexos em planos claros.",
+    "body": "Nossa equipe reúne planejamento, design e engenharia sob o mesmo teto. Primeiro ouvimos, depois criamos soluções que se encaixam nos seus objetivos e no seu orçamento.",
+    "principles": "Nossos princípios",
+    "principlesTitle": "Os mesmos quatro princípios em todo projeto.",
+    "band": "Vamos tomar juntos a decisão certa."
+  },
+  "service": {
+    "scope": "O que está incluído",
+    "title": "Planeje certo desde o início.",
+    "body": "Todo projeto começa com uma breve análise dos seus objetivos, prazos e orçamento. Depois definimos um escopo claro, para que você saiba exatamente o que vai receber.",
+    "checks": "O que avaliamos",
+    "checkItems": [
+      "Seus objetivos e como medimos o sucesso",
+      "Ferramentas, processos e equipe atuais",
+      "Prazos, orçamento e riscos",
+      "Próximos passos e responsáveis"
+    ],
+    "stepsTitle": "Quatro etapas, sem surpresas.",
+    "sideKicker": "Apoio especializado",
+    "sideTitle": "Vamos encontrar a abordagem certa para você.",
+    "sideText": "Compartilhe alguns detalhes e enviaremos um plano.",
+    "sideList": [
+      "Primeira consulta gratuita",
+      "Escopo e preço por escrito",
+      "Um único contato"
+    ],
+    "related": "Mais serviços",
+    "relatedTitle": "Serviços relacionados.",
+    "formTitle": "Peça um orçamento:",
+    "formHeading": "Vamos planejar seu projeto juntos.",
+    "formText": "Definimos escopo, prazo e custo e enviamos um plano simples."
+  },
+  "contact": {
+    "eyebrow": "Contato e orçamento",
+    "title": "Contato",
+    "intro": "Tem uma dúvida ou um projeto em mente? Escreva para nós e responderemos em até um dia útil.",
+    "kicker": "Contato",
+    "heading": "Envie uma mensagem.",
+    "text": "Conte-nos sobre seu projeto e nossa equipe entrará em contato.",
+    "office": "Nosso escritório",
+    "phoneEmail": "Telefone e e-mail",
+    "hours": "Horário de atendimento",
+    "hoursValue": "Seg–Sex: 09:00–18:00",
+    "closed": "Sábado e domingo: fechado",
+    "phone": "Telefone",
+    "email": "E-mail"
+  },
+  "footer": {
+    "tagline": "Planejamos, construímos e apoiamos projetos que fazem as empresas avançarem.",
+    "rights": "Todos os direitos reservados.",
+    "contact": "Contato e escritório",
+    "trust": [
+      "Consulta gratuita",
+      "Preços fixos",
+      "Suporte de longo prazo"
+    ]
+  },
+  "notFound": {
+    "title": "Página não encontrada",
+    "text": "A página que você procura não existe ou foi movida.",
+    "home": "Voltar ao início"
+  }
+}
